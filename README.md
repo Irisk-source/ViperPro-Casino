@@ -56,6 +56,7 @@ Follow these steps to set up your casino site on a VPS:
    - Password: 123456
 - and that's it
 
+**TO GET THE SQL FILE** [https://www.casino-scripts.com/how-to-get-the-viperpro-casino-sql-file/](https://www.casino-scripts.com/how-to-get-the-viperpro-casino-sql-file/)
 
 **TO GET YOUR SLOT GAMES API ORDER AT** [https://www.casino-scripts.com/](https://www.casino-scripts.com/)
 
